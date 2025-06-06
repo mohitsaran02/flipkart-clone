@@ -14,6 +14,7 @@ function App() {
     <TemplateProvider>
       <ContextProvider>
         <BrowserRouter>
+      
           <Header />
           <Box style={{marginTop: 54}}>
             <Routes>
